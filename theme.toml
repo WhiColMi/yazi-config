@@ -1,0 +1,33 @@
+# Yazi Terminal Configuration
+
+# General colors
+background = "#1e1b16"
+foreground = "#e9d8c3"
+
+[cursor]
+text = "#1e1b16"
+cursor = "#c47f17"
+
+[selection]
+text = "#1e1b16"
+background = "#c47f17"
+
+# ANSI colors
+[colors]
+black = "#15120e"
+red = "#a9432d"
+green = "#8a9a5b"
+yellow = "#d9a441"
+blue = "#5a6c6e"
+magenta = "#755c71"
+cyan = "#cb7723"
+white = "#f5eee6"
+
+brightBlack = "#15120e"
+brightRed = "#a9432d"
+brightGreen = "#8a9a5b"
+brightYellow = "#d9a441"
+brightBlue = "#5a6c6e"
+brightMagenta = "#755c71"
+brightCyan = "#cb7723"
+brightWhite = "#f5eee6"
